@@ -24,9 +24,14 @@ Currently there are three designs in more or less finished states and a long lis
 | Open AXII 0x02 ST  | 2x Broadcom AFBR2529Z   | none         | 2x RSSI Out            | yes     | Concept |
 | Open AXII 0x02 ??  | none                    | 2x Broadcom AFBR | none               | yes     | ToDo |
 
-Supported Interfaces:
+Supported Interfaces (and ToDo list):
 - Avago/Broadcom Versatile Link (wip)
 - Firecomms RedLink (planned)
 - EIAJ/JEITA RC-5720 / TOSLINK (planned)
 - KD9351 FOT + KD1053 Controller (gigabit ethernet, planned)
 - Broadcom ST & SMA type links (planned)
+
+Impressions
+
+![This is an image](Broadcom%20Versatile%20Link/0x10%20FP/renderings/Assembly%20v3.png)
+
